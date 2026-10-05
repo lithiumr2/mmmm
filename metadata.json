@@ -1,0 +1,6 @@
+{
+  "name": "Tech Survival",
+  "description": "Scientific reverse-engineering tech tree with interactive DAG canvas, thermal crafting mini-games, SM-2 spaced repetition, and AI Feynman socratic evaluations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
